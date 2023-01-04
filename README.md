@@ -4,7 +4,7 @@
 #### using at work
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=jpa&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/Postgresql-003545?style=flat&logo=Postgresql&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-f05032?style=flat&logo=Git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
